@@ -1,6 +1,6 @@
 {
   "name": "colearnr-sdk",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha1",
   "description": "CoLearnr sdk",
   "main": "index.js",
   "scripts": {
